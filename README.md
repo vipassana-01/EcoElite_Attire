@@ -1,4 +1,4 @@
-# EcoElite_Attire
+# EcoElite Attire
 An ECommerce platform for a sustainable fashion brand built using Reactjs.
 ## What it does?
 The platform has the following features:
